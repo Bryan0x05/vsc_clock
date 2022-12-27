@@ -1,5 +1,5 @@
 Follow instructions at: https://code.visualstudio.com/api
-To setup the Visual Studio Code enviroment for extentsion developement.
+To setup the Visual Studio Code enviroment for extensiom developement.
 Put the given file in the "src" folder.
 
 Run the developer extension enviroment as intstructed in the aforementioned link
